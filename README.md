@@ -1,2 +1,3 @@
-# full-stack-playlist
-Full stack web development playlist
+# Full Stack Web Developer - Playlist
+
+Find the lessons in the repo files
