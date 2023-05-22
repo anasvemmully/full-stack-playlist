@@ -2,7 +2,7 @@
 
 Let's start by learni how to build a basic HTML website.
 
-## Todo: 1
+## Todo:
 ### 1.
 Visit URL https://www.berkshirehathaway.com/ and have a good look of its contents.
 
