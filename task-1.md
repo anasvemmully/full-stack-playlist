@@ -4,18 +4,18 @@ Let's start by learni how to build a basic HTML website.
 
 ## Todo:
 ### 1.
-Visit URL https://www.berkshirehathaway.com/ and have a good look of its contents.
+Visit URL https://www.berkshirehathaway.com/ and have a good look at its contents.
 
 ![](https://github.com/HishamMubarak/full-stack-playlist/blob/main/images/task1.png?raw=true)
 
 ### 2
 Try to replicate this website's homepage (only the home page).
 
-You can use the playlists given below as “A” starting point (You can also use any other html resources)
+You can use the youtube playlist given below as a starting point (You can also use any other html resources)
 
 Resources:
 
-### HTML & CSS:
+### HTML:
 1. Youtube playlist
 [https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G](https://www.youtube.com/playlist?list=PLE230SQRg5IugqEzuNmfTzi39EH4Q0_lZ)
 
