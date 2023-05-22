@@ -1,20 +1,23 @@
 # How to make plain old websites? 🤔
 
-### Task 1
+Let's start by learni how to build a basic HTML website.
+
+## Todo: 1
+### 1.
 Visit URL https://www.berkshirehathaway.com/ and have a good look of its contents.
 
 ![](https://github.com/HishamMubarak/full-stack-playlist/blob/main/images/task1.png?raw=true)
 
-### Task 2
-Try to replicate this website's homepage (just only home page).
+### 2
+Try to replicate this website's homepage (only the home page).
 
-You can use the playlists given below as“A” starting point (You can also use any other html resources)
+You can use the playlists given below as “A” starting point (You can also use any other html resources)
 
 Resources:
 
 ### HTML & CSS:
 1. Youtube playlist
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+[https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G](https://www.youtube.com/playlist?list=PLE230SQRg5IugqEzuNmfTzi39EH4Q0_lZ)
 
 2. Written Tutorials and code
 https://www.w3schools.com/html/
