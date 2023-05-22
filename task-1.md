@@ -1,6 +1,6 @@
 # How to make plain old websites? 🤔
 
-Let's start by learni how to build a basic HTML website.
+Let's start by learning how to build a basic static HTML website.
 
 ## Todo:
 ### 1.
