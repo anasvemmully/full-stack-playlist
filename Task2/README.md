@@ -17,7 +17,8 @@ Click here to go to 🌐[https://www.facebook.com/]. and carefully examine its c
 
 
 ## **🌐 Resources**
- - Refer from here on [youtube] playlist.
+ - Refer to this [youtube] playlist.
+   https://www.youtube.com/playlist?list=PLCbGKRm9hVCyQqV7HXujextP-xt2UCgfd
  - [W3Schools.com]
  - Always [Google]
 
