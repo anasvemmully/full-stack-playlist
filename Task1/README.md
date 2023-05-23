@@ -14,6 +14,10 @@ Visit 🌐[https://www.berkshirehathaway.com/] and have a good look at its conte
  
  ![berkshirehathaway]
 
+## **📂 Submission**
+Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/1n-FeoaABZnHlNIddTj6mNiSBNSRUN7MZSZokfDjjk24/). </br>
+https://docs.google.com/forms/d/1n-FeoaABZnHlNIddTj6mNiSBNSRUN7MZSZokfDjjk24/  
+
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.</br>
    https://www.youtube.com/playlist?list=PLCbGKRm9hVCwBDqTdSQkFB_HbhFxqioev

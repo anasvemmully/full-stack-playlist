@@ -14,6 +14,9 @@ Click here to go to 🌐 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 
  ![bootstrap]
 
+## **📂 Submission**
+Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/). </br>
+https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/  
 
 
 ## **🌐 Resources**
