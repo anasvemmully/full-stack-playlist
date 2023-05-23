@@ -18,7 +18,7 @@ Click here to go to 🌐 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.
-    https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+   https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
  - [W3Schools.com]
  - Always [Google].
 
