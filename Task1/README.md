@@ -18,10 +18,6 @@ Visit 🌐[https://www.berkshirehathaway.com/] and have a good look at its conte
  - Refer from here on [youtube] playlist.
  - [W3Schools.com]
  - Always [Google].
- - [htmldog.com]
- - [freecodecamp.com]
- - [learn-html.com]
- - [codecademy.com]
 
 
 <!-- links -->

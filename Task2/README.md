@@ -28,6 +28,6 @@ Click here to go to 🌐[https://www.facebook.com/]. and carefully examine its c
 [facebook]:../screenshots/task2.png
 [youtube]:https://www.youtube.com/playlist?list=PLCbGKRm9hVCyQqV7HXujextP-xt2UCgfd
 [W3Schools.com]:https://www.w3schools.com/css/
-[Google]:https://https://www.google.com/
+[Google]:https://www.google.com/
 [freecodecamp.com]:https://www.freecodecamp.org/news/learn-css/
 [codecademy.com]:https://www.codecademy.com/learn/learn-css
