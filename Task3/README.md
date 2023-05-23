@@ -19,7 +19,7 @@ Click here to go to 🌐 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.<br/>
    https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
- - [W3Schools.com]
+ - [W3Schools.com] 
  - Always [Google].
 
 
@@ -27,6 +27,6 @@ Click here to go to 🌐 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#]: https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 [bootstrap]:../screenshots/task3.png
 [youtube]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
-[W3Schools.com]:https://www.w3schools.com/css/
+[W3Schools.com]:https://www.w3schools.com/bootstrap5/
 [Google]:https://https://www.google.com/
 
