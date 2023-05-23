@@ -15,7 +15,8 @@ Visit 🌐[https://www.berkshirehathaway.com/] and have a good look at its conte
  ![berkshirehathaway]
 
 ## **🌐 Resources**
- - Refer from here on [youtube] playlist.
+ - Refer from here on [youtube] playlist.</br>
+   https://www.youtube.com/playlist?list=PLCbGKRm9hVCwBDqTdSQkFB_HbhFxqioev
  - [W3Schools.com]
  - Always [Google].
 

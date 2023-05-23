@@ -10,7 +10,7 @@ Is styling hard? 🤔
  > Styling in web development can be challenging at times, requiring a solid understanding of CSS concepts, experience with advanced techniques, and the ability to troubleshoot and adapt to various design requirements for creating visually appealing and responsive web pages.
 
 ## **:pushpin: Challenge**  
-Click here to go to 🌐[https://www.facebook.com/]. and carefully examine its contents. Attempt to duplicate the login page for this website.
+Click here to go to 🌐[https://en-gb.facebook.com/]. and carefully examine its contents. Attempt to duplicate the login page for this website using CSS.
 
  ![facebook]
 
@@ -24,7 +24,7 @@ Click here to go to 🌐[https://www.facebook.com/]. and carefully examine its c
 
 
 <!-- links -->
-[https://www.facebook.com/]: https://www.facebook.com/
+[https://en-gb.facebook.com/]: https://en-gb.facebook.com/
 [facebook]:../screenshots/task2.png
 [youtube]:https://www.youtube.com/playlist?list=PLCbGKRm9hVCyQqV7HXujextP-xt2UCgfd
 [W3Schools.com]:https://www.w3schools.com/css/
