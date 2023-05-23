@@ -19,9 +19,7 @@ Click here to go to 🌐[https://www.facebook.com/]. and carefully examine its c
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.
  - [W3Schools.com]
- - Always [Google].
- - [freecodecamp.com]
- - [codecademy.com]
+ - Always [Google]
 
 
 <!-- links -->
