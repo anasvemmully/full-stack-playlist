@@ -21,7 +21,7 @@ https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/
 
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.<br/>
-   https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+   [https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR](https://youtu.be/-qfEOE4vtxE)
  - [W3Schools.com]
  - Always [Google].
 
@@ -29,7 +29,7 @@ https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/
 <!-- links -->
 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#]: https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 [bootstrap]:../screenshots/task3.png
-[youtube]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
+[youtube]:[https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR](https://youtu.be/-qfEOE4vtxE)
 [W3Schools.com]:https://www.w3schools.com/css/
 [Google]:https://https://www.google.com/
 
