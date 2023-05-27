@@ -10,7 +10,7 @@ Dont think `git` is hard to learn 🙂
  > Learning Git is like discovering a secret codebook for developers. It's a powerful tool that helps you keep track of changes in your code, collaborate with others seamlessly, and undo mistakes with the flick of a virtual wand. With Git, you can create branches to work on different features simultaneously, merge them back together effortlessly, and explore alternate realities of your project. It may take a moment to wrap your head around its quirks, but once you do, Git becomes your trusty sidekick, saving you from coding catastrophes and ensuring smooth collaboration with fellow developers. So, embrace the Git magic and unlock a whole new world of version control wizardry!
 
 ## **:pushpin: Challenge**  
-Go to 🌐 [https://github.com] and create a repository. Explore and experiment with the `git`. Refer the youtube playlist below.  
+Create a repository. Explore and experiment with the `git`. Refer the youtube playlist below.  
 
 
 ## **📂 Submission**
