@@ -2,7 +2,7 @@
 # **:star2: Task 3: Git & Github**
 
 <p align="center">
-    <img src="../screenshots/git-fire.jpg">
+    <img width="250px" src="../screenshots/git-fire.jpg">
 </p>
 
 Dont think `git` is hard to learn 🙂
