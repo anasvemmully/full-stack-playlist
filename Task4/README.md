@@ -1,5 +1,5 @@
 
-# **:star2: Task 3: Git & Github**
+# **:star2: Task 4: Git & Github**
 
 <p align="center">
     <img width="250px" src="../screenshots/git-fire.jpg">
