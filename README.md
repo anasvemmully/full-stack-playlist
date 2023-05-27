@@ -6,12 +6,13 @@ The Full Stack Web Developer repository is pleased to have you. This repository 
 These are your tasks, use the resources and start building. Happy coding devs! :rocket:
 
 | No.   |    Task               | Difficulty |
-| :---: | ---                   | :---        |
+| :---: | ---                   | :---:        |
 | 1     | [Hello HTML]          | ⭐         |
 | 2     | [Introduction to CSS] | ⭐         |
 | 3     | [Bootstrap]           | ⭐         | 
-| 3     | [Git & Github]           | ⭐         | 
-
+| 4     | [Git & Github]           | ⭐         |
+| 5     | [Javascript]          | ⭐⭐   |
+| 6     | [React]          | ⭐⭐   |
 
 
 # 🤝 **Contribution**
@@ -26,3 +27,5 @@ This repository is a collaborative effort, and we encourage you to contribute to
 [Introduction to CSS]:./Task2
 [Bootstrap]:./Task3/ 
 [Git & Github]:./Task4/ 
+[Javascript]:./Task5/ 
+[React]:./Task6/ 

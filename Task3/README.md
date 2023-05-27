@@ -31,5 +31,5 @@ https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/
 [bootstrap]:../screenshots/task3.png
 [youtube]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 [W3Schools.com]:https://www.w3schools.com/css/
-[Google]:https://https://www.google.com/
+[Google]:https://www.google.com/
 
