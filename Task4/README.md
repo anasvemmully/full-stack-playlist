@@ -13,9 +13,11 @@ Attention, developers! Get your hands dirty and unlock the potential of CSS, HTM
 ## **:pushpin: Challenge**  
 Build a website with the knowledge of HTML, CSS and Bootstrap. You have a given a [design template] and [assets]. Try to recreate the webpage as close as possible.
 
-Download the assets, 👉 click [here](./assets/task-4-icons/).
+Download the assets, 👉 click [here](./assets/).
 
-![design template] 
+<p align="center">
+    <img width="350" src="./assets/task-4-design.png">
+</p>
 
 ## **📂 Submission**
 You don't need to submit anything. 
@@ -36,7 +38,7 @@ You don't need to submit anything.
 [CSS]:https://www.youtube.com/playlist?list=PLCbGKRm9hVCyQqV7HXujextP-xt2UCgfd
 [Bootstrap]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR
 [design template]:./assets/task-4-design.png
-[assets]:./assets/task-4-icons/
+[assets]:./assets/
 
 [Google]:https://www.google.com/
 
