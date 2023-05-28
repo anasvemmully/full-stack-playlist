@@ -10,9 +10,10 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 1     | [Hello HTML]          | ⭐         |
 | 2     | [Introduction to CSS] | ⭐         |
 | 3     | [Bootstrap]           | ⭐         | 
-| 4     | [Git & Github]           | ⭐         |
-| 5     | [Javascript]          | ⭐⭐   |
-| 6     | [React]          | ⭐⭐   |
+| 4     | [Mini Project]           | ⭐⭐         |
+| 5     | [Git & Github]           | ⭐         |
+| 6     | [Javascript]          | ⭐⭐   |
+| 7     | [React]          | ⭐⭐   |
 
 
 # 🤝 **Contribution**
@@ -26,6 +27,7 @@ This repository is a collaborative effort, and we encourage you to contribute to
 [Hello HTML]:./Task1
 [Introduction to CSS]:./Task2
 [Bootstrap]:./Task3/ 
-[Git & Github]:./Task4/ 
-[Javascript]:./Task5/ 
-[React]:./Task6/ 
+[Git & Github]:./Task5/ 
+[Javascript]:./Task6/ 
+[React]:./Task7/ 
+[Mini Project]:./Task4/
