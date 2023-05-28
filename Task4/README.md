@@ -20,7 +20,7 @@ Download the assets, 👉 click [here](./assets/).
 </p>
 
 ## **📂 Submission**
-You don't need to submit anything. 
+No submission for this task. We'll learn how to deploy this site in task 5. Just DM any of the admins when done.
 
 
 ## **🌐 Resources**
