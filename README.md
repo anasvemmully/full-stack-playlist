@@ -11,7 +11,7 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 2     | [Introduction to CSS] | ⭐         |
 | 3     | [Bootstrap]           | ⭐         | 
 | 4     | [Mini Project]           | ⭐⭐         |
-| 5     | [Git & Github]           | ⭐         |
+| 5     | [Git & Github]           | ⭐⭐         |
 | 6     | [Javascript]          | ⭐⭐   |
 | 7     | [React]          | ⭐⭐   |
 
