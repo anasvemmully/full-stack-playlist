@@ -10,7 +10,8 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 1     | [Hello HTML]          | ⭐         |
 | 2     | [Introduction to CSS] | ⭐         |
 | 3     | [Bootstrap]           | ⭐         | 
-| 4     | [Mini Project]           | ⭐⭐        |
+| 4     | [Mini Project]           | ⭐⭐         |
+| 5     | [Git & Github]           | ⭐⭐         |
 
 
 # 🤝 **Contribution**
