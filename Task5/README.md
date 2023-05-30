@@ -19,10 +19,8 @@ Unleash your potential, embrace growth, and become a :octocat: GitHub pro.
 
 Visit [https://education.github.com/pack](https://education.github.com/pack) and signup for GitHub Student Developer Pack using your university email id.
 
-![Github Student Developer Pack](../screenshots/git%20student%20pack.png)
-
 ## **📂 Submission**
-Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/16tHLZ7FlBuj04N41qCj-n94kb7AV7G-vAkNQcxV12N0/edit). </br>
+Submit the link to your hosted static website [here](https://docs.google.com/forms/d/16tHLZ7FlBuj04N41qCj-n94kb7AV7G-vAkNQcxV12N0/edit). </br>
 https://docs.google.com/forms/d/16tHLZ7FlBuj04N41qCj-n94kb7AV7G-vAkNQcxV12N0/edit  
 
 ## **🌐 Resources**
