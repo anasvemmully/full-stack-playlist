@@ -14,7 +14,7 @@ Create a repository. Explore and experiment with the `git`. Refer the [youtube p
 
 Host your [Task 4](../Task4/) Mini Project on [Github](https://github.com/) using Github Pages and submit the link to the project in the form.<br />Follow the tutorial [here](https://www.youtube.com/watch?v=QyFcl_Fba-k&ab_channel=TheNetNinja) to learn more about hosting using Github pages.
 
-## **🎁 Side Quest **
+## **🎁 Side Quest**
 Unleash your potential, embrace growth, and become a :octocat: GitHub pro. 
 
 Visit [https://education.github.com/pack](https://education.github.com/pack) and signup for GitHub Student Developer Pack using your university email id.
