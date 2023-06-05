@@ -6,9 +6,33 @@
 
 With Side Quests, you can confidently conquer new territories and enhance your abilities with every successful completion.
 
-## 📺 Video's to watch
+## 📺 Video's to watch    
 
-|       |       |       | 
-| :---: | :---: | :---: | 
-| [![File Paths In HTML and CSS](https://img.youtube.com/vi/EJ0xvY5wT5Q/hqdefault.jpg)](https://youtu.be/EJ0xvY5wT5Q) </br> File Paths In HTML and CSS | [![Using Inspect Element ...](https://img.youtube.com/vi/oRKlKhFt2Rg/hqdefault.jpg)](https://youtu.be/oRKlKhFt2Rg) </br> Using Inspect Element to Analyze Websites | [![How to Center in CSS](https://img.youtube.com/vi/QdITQ4upjME/hqdefault.jpg)](https://youtu.be/QdITQ4upjME) </br> How to Center in CSS |       
-
+<table>
+  <tr>
+    <td>
+      <div style="margin:5px;">
+        <a href="https://youtu.be/EJ0xvY5wT5Q">
+          <img src="https://img.youtube.com/vi/EJ0xvY5wT5Q/hqdefault.jpg"/>
+        </a>
+        <p align="center">File Paths In HTML and CSS</p>
+      </div>
+    </td>
+    <td>
+      <div style="margin:5px;">
+        <a href="https://youtu.be/oRKlKhFt2Rg">
+          <img src="https://img.youtube.com/vi/oRKlKhFt2Rg/hqdefault.jpg"/>
+        </a>
+        <p align="center">Using Inspect Element to Analyze Websites</p>
+      </div>
+    </td>
+    <td>
+      <div style="margin:5px;">
+        <a href="https://youtu.be/QdITQ4upjME">
+          <img src="https://img.youtube.com/vi/QdITQ4upjME/hqdefault.jpg"/>
+        </a>
+        <p align="center">How to Center in CSS</p>
+      </div>
+    </td>
+  </tr>
+</table>
