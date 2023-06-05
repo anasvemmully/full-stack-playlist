@@ -22,7 +22,7 @@ Refer the following youtube video to Build a Shopping Cart with JavaScript - htt
 </a>
 
 ## **📂 Submission**
-Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit).</br>
+Submit the link to your hosted static website [Here](https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit).</br>
 https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit
 
 
