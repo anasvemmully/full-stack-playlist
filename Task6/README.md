@@ -14,12 +14,14 @@ Follow the [youtube] playlist to learn basics of modern javascript and Build a S
 
 Refer the following youtube video to Build a Shopping Cart with JavaScript - https://www.youtube.com/watch?v=cT_ZYrS3tKc
 
-<a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc">
-    <p align="center">
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc">
         <img src="https://img.youtube.com/vi/cT_ZYrS3tKc/hqdefault.jpg">
         <p align="center">Fig: Build a Shopping Cart with JavaScript</p>
-    </p>
-</a>
+    </a>
+</p>
+
 
 ## **📂 Submission**
 Submit the link to your hosted static website [Here](https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit).</br>
