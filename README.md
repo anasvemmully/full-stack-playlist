@@ -2,7 +2,7 @@
 
 The Full Stack Web Developer repository is pleased to have you. This repository will give you the skills and knowledge needed to create reliable and dynamic web apps, whether you're just starting out or looking to improve 🚀✨.
 
-# ⚒️ Let's Get Started!
+# ⚒️ **Let's Get Started!**
 These are your tasks, use the resources and start building. Happy coding devs! :rocket:
 
 | No.   |    Task               | Difficulty |
@@ -12,6 +12,10 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 3     | [Bootstrap]           | ⭐         | 
 | 4     | [Mini Project]           | ⭐⭐         |
 | 5     | [Git & Github]           | ⭐⭐         |
+| 6     | [Javascript]           | ⭐⭐         |
+
+# 🎁 **Side Quests**
+Don't you ever need an extra push! Side Quests are here to provide you with that additional boost you need, [Click Here](./Side-Quests/)!.
 
 
 # 🤝 **Contribution**
