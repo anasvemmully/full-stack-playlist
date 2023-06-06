@@ -10,10 +10,10 @@ You can't live without javascript. It's everywhere 😏
  > JavaScript is an indispensable ingredient for crafting a captivating and interactive website, as it empowers developers to breathe life into static web pages and engage users with dynamic functionality and seamless interactivity.
 
 ## **:pushpin: Challenge**  
-1. Follow the given [youtube] playlist to learn basics of modern javascript.<br />
+- Follow the given [youtube] playlist to learn basics of modern javascript.<br />
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
 
-2. Put your Js knowledge into use:
+- Put your JS knowledge into use:
 Refer the following youtube video to Build a Shopping Cart with JavaScript - https://www.youtube.com/watch?v=cT_ZYrS3tKc
 
 
