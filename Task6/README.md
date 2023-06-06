@@ -10,16 +10,20 @@ You can't live without javascript. It's everywhere 😏
  > JavaScript is an indispensable ingredient for crafting a captivating and interactive website, as it empowers developers to breathe life into static web pages and engage users with dynamic functionality and seamless interactivity.
 
 ## **:pushpin: Challenge**  
-Follow the [youtube] playlist to learn basics of modern javascript and Build a Shopping Cart with JavaScript and host the webpage using GitHub pages. 
+- Follow the given [youtube] playlist to learn basics of modern javascript.<br />
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
 
+- Put your JS knowledge into use:
 Refer the following youtube video to Build a Shopping Cart with JavaScript - https://www.youtube.com/watch?v=cT_ZYrS3tKc
 
-<a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc">
-    <p align="center">
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=cT_ZYrS3tKc">
         <img src="https://img.youtube.com/vi/cT_ZYrS3tKc/hqdefault.jpg">
         <p align="center">Fig: Build a Shopping Cart with JavaScript</p>
-    </p>
-</a>
+    </a>
+</p>
+
 
 ## **📂 Submission**
 Submit the link to your hosted static website [Here](https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit).</br>
