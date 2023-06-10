@@ -16,4 +16,5 @@ https://forms.gle/DdKFebZgZK5sgREFA
 
 ## **🌐 Resources**
 - Bootsrap Modal<br />https://getbootstrap.com/docs/4.0/components/modal/
-- Read text input value<br />https://www.geeksforgeeks.org/how-to-get-the-value-of-text-input-field-using-javascript/
+- Read text input value<br />https://www.tutorialrepublic.com/faq/how-to-get-the-value-of-text-input-field-using-javascript.php
+- JavaScript redirect URL with parameters<br />https://www.tutorialandexample.com/javascript-redirect-url-with-parameters
