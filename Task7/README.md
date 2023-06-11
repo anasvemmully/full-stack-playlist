@@ -13,7 +13,7 @@ When someone asks me what programming language they should learn, I don't simply
 <h4>1. JavaScript BookList App</h4>
 <p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.
 <br />
-https://youtu.be/JaMCxVWtW58?list=PL-tHL4yGBdKvFjT0OF2-yq3at-cMt8qW_
+https://youtu.be/JaMCxVWtW58
 </p>
 
 <h4>2. Building A Bookmarker Application</h4>
