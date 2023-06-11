@@ -1,7 +1,7 @@
 # **:star2: Task 7: Javascript Project**
 
 <p align="center">
-    <img style="border-radius:8px;border:none;" width="350px" src="../screenshots/Tweet%20by%20Bruno%20Lemos.png" />
+    <img style="border-radius:8px;border:none;" src="../screenshots/Tweet%20by%20Bruno%20Lemos.png" />
 </p>
 
 <p align="justify">
@@ -15,7 +15,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
 </p>
 
 <p align="center">
-    <img src="../screenshots/1.students-list.png" width="450px"/>
+    <img src="../screenshots/1.students-list.png" />
 </p>
 <p align="center" style="font-weight:bold;">Fig: 1</p>
         
@@ -24,7 +24,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
 </p>
 
 <p align="center">
-    <img src="../screenshots/2.marks-list.png" width="450px"/>
+    <img src="../screenshots/2.marks-list.png" />
 </p>
 <p align="center" style="font-weight:bold;">Fig: 2</p>
     
