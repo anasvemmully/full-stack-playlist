@@ -19,19 +19,18 @@ https://youtu.be/JaMCxVWtW58?list=PL-tHL4yGBdKvFjT0OF2-yq3at-cMt8qW_
 <h4>2. Building A Bookmarker Application</h4>
 <p align="justify">Extend your knowledge of Js by building a bookmarker application.
 <br/>
-https://youtu.be/DIVfDZZeGxM?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
+https://youtu.be/DIVfDZZeGxM
 </p>
 
-<h4>3. JavaScript BookList App</h4>
+<h4>3. JavaScript Issue Tracker</h4>
 <p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.
 <br />
-https://youtu.be/NYq9J-Eur9U?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
+https://youtu.be/NYq9J-Eur9U
 </p>
 
 <h4>4. Project</h4>
 <p align="justify">
 Finally, create a webpage as the following (Fig 1) containing the student's name in tabular form with the provision to view marks. The user must be able to enter the student's name and add in to the table.</p>
-https://youtu.be/NYq9J-Eur9U?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
 
 <p align="center">
     <img src="../screenshots/1.students-list.png" />
