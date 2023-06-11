@@ -15,7 +15,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
 </p>
 
 <p align="center">
-    <img src="./images/1.students-list.png" width="450px"/>
+    <img src="../screenshots/1.students-list.png" width="450px"/>
 </p>
 <p align="center" style="font-weight:bold;">Fig: 1</p>
         
@@ -24,7 +24,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
 </p>
 
 <p align="center">
-    <img src="./images/2.marks-list.png" width="450px"/>
+    <img src="../screenshots/2.marks-list.png" width="450px"/>
 </p>
 <p align="center" style="font-weight:bold;">Fig: 2</p>
     
