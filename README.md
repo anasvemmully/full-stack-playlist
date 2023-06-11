@@ -18,6 +18,7 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 4     | [Mini Project]           | ⭐⭐         |
 | 5     | [Git & Github]           | ⭐⭐         |
 | 6     | [Javascript]           | ⭐⭐         |
+| 7     | [Javascript Project]           | ⭐⭐         |
 
 # 🎁 **Side Quests**
 Don't you ever need an extra push! Side Quests are here to provide you with that additional boost you need, [Click Here](./Side-Quests/)!.
@@ -36,5 +37,7 @@ This repository is a collaborative effort, and we encourage you to contribute to
 [Bootstrap]:./Task3/ 
 [Git & Github]:./Task5/ 
 [Javascript]:./Task6/ 
-[React]:./Task7/ 
+[Javascript Project]:./Task7/ 
 [Mini Project]:./Task4/
+
+<!-- [React]:./Task7/  -->
