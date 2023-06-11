@@ -8,11 +8,22 @@
 When someone asks me what programming language they should learn, I don't simply pick my favorite. I play matchmaker! Web frontend? JavaScript is the heartthrob. Backend? Still JavaScript steals the show. Mobile apps? JavaScript saves the day. Games? Yup, JavaScript's got game. AI? Guess what? JavaScript to the rescue again! So, no matter the path, JavaScript's the hot pick for a programmer's heart.
 </p>
 
-## **:pushpin: Challenge**  
+## **:pushpin: Challenges**  
+
+<h4>1. JavaScript BookList App</h4>
+<p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.</p>
+
+<h4>2. Building A Bookmarker Application</h4>
+<p align="justify">Extend your knowledge of Js by building a bookmarker application.</p>
+https://youtu.be/JaMCxVWtW58?list=PL-tHL4yGBdKvFjT0OF2-yq3at-cMt8qW_
+
+<h4>3. JavaScript BookList App</h4>
+<p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.</p>
+https://youtu.be/DIVfDZZeGxM?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
 
 <p align="justify">
-First, create a webpage as the following (Fig 1) containing the student's name in tabular form with the provision to view marks. The user must be able to enter the student's name and add in to the table.  
-</p>
+Finally, create a webpage as the following (Fig 1) containing the student's name in tabular form with the provision to view marks. The user must be able to enter the student's name and add in to the table.</p>
+https://youtu.be/NYq9J-Eur9U?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
 
 <p align="center">
     <img src="../screenshots/1.students-list.png" />
