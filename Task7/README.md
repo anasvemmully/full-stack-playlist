@@ -37,6 +37,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
     └── studentsmarks.html #It contains students marks displayed
 
 <p align="justify">
+    
 In `index.html` there contains an input field, value in the input field should be able to fetched and play with it inside the array, refer the resources below. The input field must be validated for any empty strings and an error message must be displayed ragarding it. 
 
 On clicking View marks button one should navigate to the new page using the Window/Document object containing the student id. The student id should be read from the URL and display yhe respective students marks in the `studentsmarks.html`.
