@@ -6,6 +6,11 @@
 
 With Side Quests, you can confidently conquer new territories and enhance your abilities with every successful completion.
 
+Here are some you must try (Click to know more about them):
+
+-  🥷 [The Elegant Art of Keyboard Mastery] 
+
+
 ## 📺 Video's to watch    
 
 <table>
@@ -36,3 +41,7 @@ With Side Quests, you can confidently conquer new territories and enhance your a
     </td>
   </tr>
 </table>
+
+
+<!-- links -->
+[The Elegant Art of Keyboard Mastery]:./SideQuest1/
