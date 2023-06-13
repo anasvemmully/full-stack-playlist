@@ -18,6 +18,7 @@ Click here to go to 🌐 [https://getbootstrap.com/docs/4.0/examples/jumbotron/#
 Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/). </br>
 https://docs.google.com/forms/d/1lcrHXOACbDxNfV3E5WjA_0xzHKw0OUTA2MkU-jRza-o/  
 
+> Upload all the files by compressing the folder (.zip/.rar/.7z) containing the source code, if there is more than one file ! 
 
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.<br/>
