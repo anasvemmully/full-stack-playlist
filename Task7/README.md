@@ -60,7 +60,7 @@ In `index.html` there contains an input field, value in the input field should b
 
 On clicking View marks button one should navigate to the new page using the Window/Document object containing the student id. The student id should be read from the URL and display yhe respective students marks in the `studentsmarks.html`.
 
-For persistant storage use `localStorage` to never lose the data on refreshing the wenb page. To Know more about the Web Storage API, visit https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API. 
+For persistant storage use `localStorage` to never lose the data on refreshing the web page. To Know more about the Web Storage API, visit https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API. 
 </p>       
 
     

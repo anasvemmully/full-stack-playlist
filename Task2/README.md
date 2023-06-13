@@ -18,6 +18,8 @@ Click here to go to 🌐[https://en-gb.facebook.com/]. and carefully examine its
 Submit the challenge into the Google form [Here](https://docs.google.com/forms/d/1Daz8alvPvnKdkEaq4YERwoE-Qm2qt7nwXceCZEcz-tU). </br>
 https://docs.google.com/forms/d/1Daz8alvPvnKdkEaq4YERwoE-Qm2qt7nwXceCZEcz-tU  
 
+> Upload all the files by compressing the folder (.zip/.rar/.7z) containing the source code, if there is more than one file ! 
+
 ## **🌐 Resources**
  - Refer to this [youtube] playlist.<br/>
    https://www.youtube.com/playlist?list=PLCbGKRm9hVCyQqV7HXujextP-xt2UCgfd
