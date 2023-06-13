@@ -1,21 +1,39 @@
 # **:star2: Task 7: Javascript Project**
 
 <p align="center">
-    <img style="border-radius:8px;border:none;" width="350px" src="../screenshots/Tweet%20by%20Bruno%20Lemos.png" />
+    <img style="border-radius:8px;border:none;" src="../screenshots/Tweet%20by%20Bruno%20Lemos.png" />
 </p>
 
 <p align="justify">
 When someone asks me what programming language they should learn, I don't simply pick my favorite. I play matchmaker! Web frontend? JavaScript is the heartthrob. Backend? Still JavaScript steals the show. Mobile apps? JavaScript saves the day. Games? Yup, JavaScript's got game. AI? Guess what? JavaScript to the rescue again! So, no matter the path, JavaScript's the hot pick for a programmer's heart.
 </p>
 
-## **:pushpin: Challenge**  
+## **:pushpin: Challenges**  
 
-<p align="justify">
-First, create a webpage as the following (Fig 1) containing the student's name in tabular form with the provision to view marks. The user must be able to enter the student's name and add in to the table.  
+<h4>1. JavaScript BookList App</h4>
+<p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.
+<br />
+https://youtu.be/JaMCxVWtW58
 </p>
 
+<h4>2. Building A Bookmarker Application</h4>
+<p align="justify">Extend your knowledge of Js by building a bookmarker application.
+<br/>
+https://youtu.be/DIVfDZZeGxM
+</p>
+
+<h4>3. JavaScript Issue Tracker</h4>
+<p align="justify">Follow the linked tutorial to code along and create a booklist app using HTML, CSS and Js. No need to submit the output, this is just for you to understand.
+<br />
+https://youtu.be/NYq9J-Eur9U
+</p>
+
+<h4>4. Project</h4>
+<p align="justify">
+Finally, create a webpage as the following (Fig 1) containing the student's name in tabular form with the provision to view marks. The user must be able to enter the student's name and add in to the table.</p>
+
 <p align="center">
-    <img src="../screenshots/1.students-list.png" width="450px"/>
+    <img src="../screenshots/1.students-list.png" />
 </p>
 <p align="center" style="font-weight:bold;">Fig: 1</p>
         
@@ -24,7 +42,7 @@ First, create a webpage as the following (Fig 1) containing the student's name i
 </p>
 
 <p align="center">
-    <img src="../screenshots/2.marks-list.png" width="450px"/>
+    <img src="../screenshots/2.marks-list.png" />
 </p>
 <p align="center" style="font-weight:bold;">Fig: 2</p>
     
@@ -37,11 +55,12 @@ First, create a webpage as the following (Fig 1) containing the student's name i
     └── studentsmarks.html #It contains students marks displayed
 
 <p align="justify">
+    
 In `index.html` there contains an input field, value in the input field should be able to fetched and play with it inside the array, refer the resources below. The input field must be validated for any empty strings and an error message must be displayed ragarding it. 
 
 On clicking View marks button one should navigate to the new page using the Window/Document object containing the student id. The student id should be read from the URL and display yhe respective students marks in the `studentsmarks.html`.
 
-For persistant storage use `localStorage` to never lose the data on refreshing the wenb page. To Know more about the Web Storage API, visit https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API. 
+For persistant storage use `localStorage` to never lose the data on refreshing the web page. To Know more about the Web Storage API, visit https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API. 
 </p>       
 
     

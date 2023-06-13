@@ -18,7 +18,7 @@ These are your tasks, use the resources and start building. Happy coding devs! :
 | 4     | [Mini Project]           | ⭐⭐         |
 | 5     | [Git & Github]           | ⭐⭐         |
 | 6     | [Javascript]           | ⭐⭐         |
-| 7     | [Javascript Project]           | ⭐⭐         |
+| 7     | [Javascript Project]           | ⭐⭐⭐         |
 
 # 🎁 **Side Quests**
 Don't you ever need an extra push! Side Quests are here to provide you with that additional boost you need, [Click Here](./Side-Quests/)!.
