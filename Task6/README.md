@@ -40,9 +40,7 @@ Refer the following youtube video to Build a Shopping Cart with JavaScript - htt
 
 
 ## **📂 Submission**
-Submit the link to your hosted static website [Here](https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit).</br>
-https://docs.google.com/forms/d/1ztIdl9qOTqUhTwnUS4ptp8pLOoDQI96SGJ0NTHIJidQ/edit
-
+No need to submit anything!
 
 ## **🌐 Resources**
  - Refer from here on [youtube] playlist.<br/>

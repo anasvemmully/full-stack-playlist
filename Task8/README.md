@@ -10,7 +10,20 @@ React is a free and open-source front-end JavaScript library for building user i
  > React leverages JSX, a combination of JavaScript and HTML syntax, to provide developers with an expressive and efficient way to build component-based UIs. By seamlessly integrating JavaScript logic with HTML-like syntax, React enables the creation of reusable components and facilitates the development of interactive and scalable web applications.
 
 ## **:pushpin: Challenge**  
-Done [Task 7](../Task7/)? build the exact replica of it in react and publish it online using github pages. 
+Done [Task 7](../Task7/)? build the exact replica of the project  in react and publish it online using github pages.
+
+<table>
+    <tr>
+        <td>
+            <img src="../screenshots/1.students-list.png"/>
+            <p align="center"><small>Fig 1</small></p>
+        </td>
+        <td>
+            <img src="../screenshots/2.marks-list.png"/>
+            <p align="center"><small>Fig 2</small></p>
+        </td>
+    </tr>
+</table>
 
 ## **📂 Submission**
 Submit the hosted webpage into the Google form </br>
