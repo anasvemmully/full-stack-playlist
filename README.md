@@ -40,5 +40,5 @@ This repository is a collaborative effort, and we encourage you to contribute to
 [Javascript]:./Task6/ 
 [Javascript Project]:./Task7/ 
 [Mini Project]:./Task4/
-[React]:./Task8/ 
+[React]:./task8/ 
 
