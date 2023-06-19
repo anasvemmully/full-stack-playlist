@@ -1,5 +1,5 @@
 
-# **:star2: Task 7: React**
+# **:star2: Task 8: React**
 
 <p align="center">
     <img  src="https://i.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.webp">
@@ -10,10 +10,11 @@ React is a free and open-source front-end JavaScript library for building user i
  > React leverages JSX, a combination of JavaScript and HTML syntax, to provide developers with an expressive and efficient way to build component-based UIs. By seamlessly integrating JavaScript logic with HTML-like syntax, React enables the creation of reusable components and facilitates the development of interactive and scalable web applications.
 
 ## **:pushpin: Challenge**  
-
+Done [Task 7](../Task7/)? build the exact replica of it in react and publish it online using github pages. 
 
 ## **📂 Submission**
-Submit the challenge into the Google form 
+Submit the hosted webpage into the Google form </br>
+https://docs.google.com/forms/d/e/1FAIpQLSeabsgFGNCOpKDkfJmSvX6U5m3ap0FNGoCSc3qe1zbz4TeKbw/viewform?usp=sharing
 
 
 ## **🌐 Resources**
