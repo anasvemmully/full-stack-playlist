@@ -1,0 +1,35 @@
+title: FULL STACK PLAYLIST
+description: >- # this means to ignore newlines until "baseurl:"
+  The Full Stack Web Developer repository is pleased to have you. 
+  This repository will give you the skills and knowledge needed to create 
+  reliable and dynamic web apps, whether you're just starting out or looking to improve. 
+baseurl: "/full-stack-playlist" # the subpath of your site, e.g. /blog
+# url: "https://anasvemmully.github.io/Daily-Coding-Problem/" # the base hostname & protocol for your site, e.g. http://example.com
+# github_username:  anasvemmully
+# github_link: https://github.com/anasvemmully/Daily-Coding-Problem
+# # Build settings
+# # theme: minima
+sass:
+  sass_dir: _sass
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -1,0 +1,247 @@
+---
+---
+
+@import "base";
+
+.container {
+
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.first {
+
+    border-bottom: 1px solid grey;
+    background: linear-gradient(
+        to right,
+        $primary 0%,
+        $primary 51%,
+        $black 51%,
+        $black 100%
+        );
+
+    .navigation-container {
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+        .navigation-first {
+            
+            padding: $NavigationBarPadding;
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+
+            .title-logo {
+
+                img {
+                    width: 80px;
+                    height: 80px;
+                }
+            }
+
+            .search-container {
+
+                display: flex;
+                flex-direction: row;
+                border-bottom: 1px solid $black;  
+                gap: 0.6rem;
+                align-items: center;
+                justify-content: center;
+
+                .search-icon {
+
+                    svg {
+                     
+                        color: $black;
+                        stroke-width: 3px;
+                        font-weight: bolder;
+                        width: 40px;
+                        height: 40px;
+
+                    }
+
+                }
+
+                .search-input {
+
+                    input {
+                        width: 400px;
+                        height: 50px;
+                        font-size: 1.4rem;
+
+                        border: none;
+                        outline: none;
+                        background-color: transparent;
+
+                    }
+
+                }
+
+            }            
+        }
+
+        .navigation-second {
+            
+            padding: $NavigationBarPadding;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            gap: 3rem;
+            font-size: 1.6rem;
+
+            .nav-links {
+                
+                a {
+                    text-decoration: none;
+                    color: $primary;
+                }
+
+            }
+
+        }
+    }
+
+    .primary-container {
+
+        display: flex;
+        flex-direction: row;
+        // width: 100vw;
+        padding: 6rem $LeftRightPadding;
+        justify-content: space-between;
+        align-items: center;
+
+        .primary-contents {
+        
+            // padding: $NavigationBarPadding;
+
+            .contents-head {
+
+                font-size: 8rem;
+
+            }
+            .contents-head-sub {
+
+                font-size: 1.4rem;
+
+
+            }
+        }
+        .primary-animations {
+        
+            padding: 0rem 8rem;
+            height: 32em;
+            
+            svg {
+                height: 100%;
+                scale: 1.3;
+            }
+           
+        }
+    }
+
+}
+
+.second {
+
+    background-color: $black;
+    padding: 6rem 4rem 0rem 4rem;
+
+    .second-inner {
+
+        margin-bottom: 6rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 4rem;
+
+        .contents-head-sub {
+            color: $primary;
+            font-size: 4rem;
+        }
+        .contents-head-sub-secondary {
+
+            display: flex;
+            flex-direction: column;
+            color: $primary;
+            gap: 1rem;
+
+            .contents-head-sub-secondary-inner {
+                color: $black;
+                text-decoration-color: blue;
+                padding: 2rem;
+                font-size: 4rem;
+                background-color: #c6ff00;
+                border-radius: 10px;
+    
+                display: flex;
+                gap: 2rem;
+    
+                img {
+                    width: 150px;
+                }
+            }
+        
+        }
+    
+    }
+
+    .footer {
+
+        padding: 3rem 0rem;
+        border-top: 1px solid $primary;
+        color: $primary;
+        display: flex;
+        flex-direction: row;
+
+        .column {
+            gap: 1.2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+
+            a {
+                text-decoration: none;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 1rem;
+                color: $primary;
+
+                span {
+
+                    text-transform: uppercase;
+
+                }
+            }
+
+            .logo {
+
+                img {
+                    width: 40px;
+                }
+
+            }
+
+            .github, .contribute {
+
+                img {
+                    filter: invert(1);
+                }
+
+            }
+        }
+
+    }
+
+}
+
+@media screen {
+ 
+    
+    
+}

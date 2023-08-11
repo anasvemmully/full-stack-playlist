@@ -1,0 +1,160 @@
+body {
+  overflow-x: hidden;
+}
+
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+.first {
+  border-bottom: 1px solid grey;
+  background: linear-gradient(to right, #f1ede9 0%, #f1ede9 51%, #191d21 51%, #191d21 100%);
+}
+.first .navigation-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.first .navigation-container .navigation-first {
+  padding: 2rem 4rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.first .navigation-container .navigation-first .title-logo img {
+  width: 80px;
+  height: 80px;
+}
+.first .navigation-container .navigation-first .search-container {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #191d21;
+  gap: 0.6rem;
+  align-items: center;
+  justify-content: center;
+}
+.first .navigation-container .navigation-first .search-container .search-icon svg {
+  color: #191d21;
+  stroke-width: 3px;
+  font-weight: bolder;
+  width: 40px;
+  height: 40px;
+}
+.first .navigation-container .navigation-first .search-container .search-input input {
+  width: 400px;
+  height: 50px;
+  font-size: 1.4rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.first .navigation-container .navigation-second {
+  padding: 2rem 4rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: 1.6rem;
+}
+.first .navigation-container .navigation-second .nav-links a {
+  text-decoration: none;
+  color: #f1ede9;
+}
+.first .primary-container {
+  display: flex;
+  flex-direction: row;
+  padding: 6rem 4rem;
+  justify-content: space-between;
+  align-items: center;
+}
+.first .primary-container .primary-contents .contents-head {
+  font-size: 8rem;
+}
+.first .primary-container .primary-contents .contents-head-sub {
+  font-size: 1.4rem;
+}
+.first .primary-container .primary-animations {
+  padding: 0rem 8rem;
+  height: 32em;
+}
+.first .primary-container .primary-animations svg {
+  height: 100%;
+  scale: 1.3;
+}
+
+.second {
+  background-color: #191d21;
+  padding: 6rem 4rem 0rem 4rem;
+}
+.second .second-inner {
+  margin-bottom: 6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4rem;
+}
+.second .second-inner .contents-head-sub {
+  color: #f1ede9;
+  font-size: 4rem;
+}
+.second .second-inner .contents-head-sub-secondary {
+  display: flex;
+  flex-direction: column;
+  color: #f1ede9;
+  gap: 1rem;
+}
+.second .second-inner .contents-head-sub-secondary .contents-head-sub-secondary-inner {
+  color: #191d21;
+  text-decoration-color: blue;
+  padding: 2rem;
+  font-size: 4rem;
+  background-color: #c6ff00;
+  border-radius: 10px;
+  display: flex;
+  gap: 2rem;
+}
+.second .second-inner .contents-head-sub-secondary .contents-head-sub-secondary-inner img {
+  width: 150px;
+}
+.second .footer {
+  padding: 3rem 0rem;
+  border-top: 1px solid #f1ede9;
+  color: #f1ede9;
+  display: flex;
+  flex-direction: row;
+}
+.second .footer .column {
+  gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.second .footer .column a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: #f1ede9;
+}
+.second .footer .column a span {
+  text-transform: uppercase;
+}
+.second .footer .column .logo img {
+  width: 40px;
+}
+.second .footer .column .github img, .second .footer .column .contribute img {
+  filter: invert(1);
+}
+
+/*# sourceMappingURL=styles.css.map */

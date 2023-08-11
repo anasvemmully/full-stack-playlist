@@ -1,0 +1,25 @@
+$BricolageGrotesque: 'Bricolage Grotesque', sans-serif;
+$RobotoSlab: 'Roboto Slab', serif;
+
+$primary: #f1ede9;
+$black: #191d21;
+$yellow: #f8ce65;
+
+$TopBottomPadding: 2rem;
+$LeftRightPadding: 4rem;
+$NavigationBarPadding: $TopBottomPadding $LeftRightPadding;
+
+body {
+
+    overflow-x: hidden;
+
+}
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $BricolageGrotesque;
+}
+
+
