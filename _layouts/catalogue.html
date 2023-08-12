@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    {% include perns/pern_header.html %}
+    
+    <title>{{ site.title }}</title>
+</head>
+<body>
+
+    <div class="first">
+
+        {% include commons/navigation.html %}
+
+        <div class="search-container">
+            
+            <!-- need to modify to accomdate searching functionallity
+            instead now, just listing! -->
+
+            {% assign tasks = site.perns | sort: "order" %}
+            {% for task in tasks %}
+                <a href="{{ task.url | relative_url }}">
+                    <div>
+                        {{ forloop.index }}. {{ task.title }}
+                    </div>
+                </a>
+            {% endfor %}
+
+        </div>
+
+    </div>
+    {{ content }}
+</body>
+</html>

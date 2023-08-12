@@ -2,45 +2,17 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     {% include header.html %}
-
     <title>{{ site.title }}</title>
 </head>
 
 <body>
+
     {{ content }}
 
-    <div class="container first">
-        <div class="navigation-container">
-            <div class="navigation-first">
-                <div class="title-logo">
-                    <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo">
-                </div>
-                <div class="search-container">
-                    <div class="search-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                            stroke="currentColor" class="w-6 h-6">
-                            <path stroke-linecap="round" stroke-linejoin="round"
-                                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                        </svg>
-                    </div>
-                    <div class="search-input">
-                        <input type="text" placeholder="Start looking for the blog...">
-                    </div>
-                </div>
-            </div>
-            <div class="navigation-second">
-                <div class="nav-links">
-                    <a href="#">♥ Contribute</a>
-                </div>
-                <div class="nav-links">
-                    <a href="#">Catalogue</a>
-                </div>
-            </div>
-        </div>
+    <div class="first">
+        
+		{% include commons/navigation.html %}
 
         <div class="primary-container">
             <div class="primary-contents">
@@ -1485,7 +1457,7 @@
             </div>
         </div>
     </div>
-    <div class="container second">
+    <div class="second">
         <div class="second-inner">
             <div class="contents-head-sub">
                 We are thrilled to give you the skills 
@@ -1494,7 +1466,7 @@
                 just starting out or looking to improve.
             </div>
             <div class="contents-head-sub-secondary">
-                <a href="#" class="contents-head-sub-secondary-inner">
+                <a href="{{ site.baseurl }}/catalogue" class="contents-head-sub-secondary-inner">
                     <img src="{{ site.baseurl }}/assets/images/play.png" alt="play">
                     <span>
                         Start Stacking.
@@ -1503,20 +1475,9 @@
                 <span>*Click Here.</span>
             </div>
         </div>
-        <div class="footer">
-            <div class="column">
-                <a target="_blank" href="https://github.com/HishamMubarak/full-stack-playlist" class="github logo">
-                    <img src="{{ site.baseurl }}/assets/images/github.png" alt="Github">
-                    <span>full-stack-playlist</span>
-                </a>
-                <a href="{{ site.baseurl }}/contribute" class="contribute logo">
-                    <img src="{{ site.baseurl }}/assets/images/contribute.png" alt="Contribute">
-                    <span>Contribute</span>
-                </a>
-            </div>
-            <!-- <div class="column"></div> -->
-            <!-- <div class="column"></div> -->
-        </div>
+        
+		{% include commons/footer.html %}
+
     </div>
 
 </body>
