@@ -1,0 +1,31 @@
+body {
+  overflow-x: hidden;
+}
+
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.first {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+.first .navigation-container .navigation-second .nav-links a {
+  color: #191d21 !important;
+}
+.first .search-container {
+  padding: 2rem 4rem;
+}
+.first .search-container a {
+  text-decoration: none;
+  color: #191d21;
+  font-family: "Roboto Slab", serif;
+  font-size: 1.2rem;
+}
+
+/*# sourceMappingURL=post-styles.css.map */

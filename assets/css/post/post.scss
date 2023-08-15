@@ -1,0 +1,253 @@
+@import "variables";
+
+
+.whole-markdown-container {
+
+    font-family: $Poppins;
+    padding: 2rem 4rem 4rem 4rem;
+
+    .post-header {
+
+        .pagination {
+    
+            // margin-bottom: 1rem;
+
+            .pagintion-item {
+                
+                display: inline;
+                font-size: 1.2rem;
+                font-weight: bold;
+                
+                &.collection {
+                    
+                    text-transform: uppercase;
+
+                }
+
+            }
+    
+        }
+
+        .post-info {
+
+            .post-date {
+
+                font-size: 0.9rem;
+
+            }
+
+        }
+
+    }
+
+
+    .markdown-container {
+    
+        display: flex;
+        flex-direction: row;
+    
+        .markdown {
+    
+            padding-right: 3rem;
+            width: 100%;
+
+            .links-prev-next {
+
+                margin-top: 6rem;
+                display: flex;
+                justify-content: center;
+                gap: 0.4rem;
+
+                .next {
+
+                    a {
+
+                        border-radius: 0px 30px 30px 0px;
+
+                    }                    
+
+                }
+
+                .prev {
+
+                    a {
+
+                        border-radius: 30px 0px 0px 30px;
+
+                    }
+                                
+                }
+
+                .next, .prev {
+
+                    a {
+    
+                        padding: 0.4rem 1rem;
+                        font-weight: bold;
+                        background-color: $green;
+                        color: $black;
+                        text-decoration: none;
+    
+                    }
+
+                }
+
+                // margin-top: 2rem;
+                    
+
+            }
+            
+            blockquote {
+    
+                // defaults
+                margin-block-start: 0em;
+                margin-block-end: 0em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
+    
+                background-color: rgb(48, 48, 48);
+                border-radius: 8px;
+                padding: 0.6rem 2rem;
+                border-left: 3px solid $primary;
+            }
+    
+            p, li {
+            
+                font-size: 1.2rem;
+    
+            }
+    
+            a {
+    
+                color: $primary;
+            
+            }
+    
+            code {
+    
+                background-color: rgb(75, 74, 74);
+                border-radius: 8px;
+                padding: 0.2rem 0.3rem;            
+    
+            }
+    
+            img:not(.emoji) {
+    
+                width: 100%;
+                height: auto;
+                border-radius: 4px;
+    
+            }
+    
+            strong {
+    
+                display: flex;
+                align-items: center;
+                gap: 1rem;    
+    
+                img.emoji {
+    
+                    width: 40px !important;
+                    height: 40px !important;
+        
+        
+                }
+    
+            }
+    
+            h1 {
+    
+                font-size: 2.2rem;
+    
+            }
+    
+            h2 {
+    
+                font-size: 2rem;
+    
+            }
+    
+            h3 {
+    
+                font-size: 1.8rem;
+    
+            }
+    
+            h4 {
+    
+                font-size: 1.6rem;
+    
+            }
+    
+            h5 {
+    
+                font-size: 1.4rem;
+    
+            }
+    
+            h6 {
+    
+                font-size: 1.2rem;
+    
+            }
+    
+    
+        }
+        
+        .markdown-brochure-container {
+    
+            position: relative;
+            white-space: nowrap;
+            width: 430px;
+    
+            .markdown-brochure {
+    
+                position: fixed;    
+                        
+                padding: 3rem 0rem 2rem 1.6rem;
+                border-left: 1px solid $primary;
+                font-family: $Poppins;
+        
+                .brochure-links-prev-next {
+
+                    margin-top: 2rem;
+                    
+                    a {
+
+                        padding: 0.6rem 1rem;
+                        font-weight: bold;
+                        border-radius: 0px 30px 30px 0px;
+                        background-color: $green;
+                        color: $black;
+                        text-decoration: none;
+
+                    }
+
+                }
+
+                .markdown-brochure-table-contents {
+    
+                    font-size: 1.3rem;
+                    font-weight: bold;
+                    padding-bottom: 1rem;
+    
+                }
+    
+                .brochure-item {
+        
+                    padding: 0.1rem 0rem;
+                    font-size: 1rem;
+                    display: block;
+                    text-decoration: none;
+                    color: $primary;
+        
+                }
+        
+            }
+    
+        }
+    }
+
+}
+
+@import "post-medias";

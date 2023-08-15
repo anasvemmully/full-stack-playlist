@@ -1,0 +1,125 @@
+
+@media screen and (max-width: 1150px) {
+
+    .whole-markdown-container {
+
+        .markdown-container {
+        
+            .markdown {
+        
+                padding-right: 3rem;
+                width: 100%;
+                
+                blockquote {
+        
+                    padding: 0.6rem 2rem;
+                    border-left: 3px solid $primary;
+        
+                }
+        
+                p, li {
+                
+                    font-size: 1rem;
+        
+                }
+        
+                code {
+        
+                    padding: 0.2rem 0.3rem;            
+        
+                }
+        
+                strong {
+
+                    img.emoji {
+        
+                        width: 30px !important;
+                        height: 30px !important;
+            
+            
+                    }
+        
+                }
+            }
+            
+            .markdown-brochure-container {
+        
+                width: 330px;
+        
+            }
+        }
+
+    }    
+
+}
+
+@media screen and (max-width: 990px) {
+
+    .whole-markdown-container {
+
+        .markdown-container {
+            
+            .markdown-brochure-container {
+        
+                display: none;
+        
+            }
+        }
+
+    }   
+
+}
+
+
+@media screen and (max-width: 660px) {
+
+    .whole-markdown-container {
+
+        padding: 1rem;
+    
+        .post-header {
+
+            .pagination {
+    
+                .pagintion-item {
+                    
+                    font-size: 1rem;
+                    
+                }
+        
+            }
+
+        }
+
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+
+    .whole-markdown-container {
+
+        .markdown-container {
+        
+            .markdown {
+                
+                blockquote {
+        
+                    padding: 0.6rem 1rem;
+                    border-left: 3px solid $primary;
+        
+                }
+        
+                p, li {
+                
+                    font-size: 0.8rem;
+        
+                }
+        
+            }
+            
+        }
+
+    }   
+
+}

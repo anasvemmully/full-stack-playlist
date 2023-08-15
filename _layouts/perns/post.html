@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% include perns/tasks_header.html %}
+
+    <title>{{ site.title }}</title>
+</head>
+
+<body>
+
+    <div class="first">
+
+        {% include commons/navigation.html %}
+
+    </div>
+
+
+
+    <div class="whole-markdown-container">
+
+        <div class="post-header">
+
+            <div class="pagination">
+
+                <div class="pagintion-item collection">
+                    {{ page.collection }}
+                </div>
+                <div class="pagintion-item">
+                    > {{ page.title }}
+                </div>
+
+            </div>
+            <div class="post-info">
+                <div class="post-date">
+                    Posted on {{ page.date | date: "%d %B %Y" }}
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="markdown-container">
+
+            <div class="markdown">
+
+                {{ content | markdownify }}
+
+                <div class="links-prev-next">
+                    <div class="prev">
+                        {% if page.previous.url %}
+                            <a href="{{ site.baseurl }}{{ page.previous.url }}"> 
+                                << {{page.previous.title}} 
+                            </a>
+                        {% endif %}
+                    </div>
+                    <div class="next">
+                        {% if page.next.url %}
+                            <a href="{{ site.baseurl }}{{ page.next.url }}"> 
+                                {{page.next.title}} >> 
+                            </a>
+                        {% endif %}
+                    </div>
+                </div>
+
+            </div>
+            <div class="markdown-brochure-container">
+
+                <div class="markdown-brochure">
+
+                    <div class="markdown-brochure-table-contents">TABLE OF CONTENTS</div>
+                    <div id="markdown-brochure-contents"></div>
+                    
+                    <div class="brochure-links-prev-next">
+                        {% if page.next.url %}
+                            <a href="{{ site.baseurl }}{{ page.next.url }}"> 
+                                >> {{page.next.title}}
+                            </a>
+                        {% endif %}
+                    </div>
+                
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="second">
+
+        {% include commons/footer.html %}
+
+    </div>
+
+</body>
+
+</html>

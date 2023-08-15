@@ -1,0 +1,63 @@
+---
+---
+
+@import "base";
+
+.first {
+
+    .navigation-container {
+
+        padding: $NavigationBarPadding;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+        .navigation-first {
+            
+            display: flex;
+            flex-direction: row;
+            gap: 1rem;
+            justify-content: center;
+            align-items: center;
+
+            text-decoration: none;
+
+            .title-logo {
+
+                img {
+                    width: 80px;
+                    height: 80px;
+                }
+            }
+
+            .title-container {
+
+                font-size: 3rem;                
+
+            }            
+        }
+
+        .navigation-second {
+        
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            gap: 3rem;
+            font-size: 1.6rem;
+
+            .nav-links {
+                
+                a {
+                    text-decoration: none;
+                    color: $primary;
+                }
+
+            }
+
+        }
+    }
+
+}
+
+@import "navigation-medias";

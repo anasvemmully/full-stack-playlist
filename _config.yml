@@ -11,8 +11,10 @@ baseurl: "/full-stack-playlist" # the subpath of your site, e.g. /blog
 # # theme: minima
 sass:
   sass_dir: _sass
+
 plugins:
   - jekyll-feed
+  - jemoji
 
 collections:
   perns:

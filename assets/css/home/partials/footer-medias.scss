@@ -1,0 +1,85 @@
+@media screen and (max-width: 660px) {
+
+    .second {
+
+        height: auto;
+        padding: 3rem 1rem 0rem 1rem;        
+
+        .footer {
+
+            padding: 1rem 0rem 2rem 0rem;
+    
+            .column {
+               
+                gap: 0.6rem;
+
+                a {
+
+                    gap: 0.6rem;
+
+                    span {
+
+                        font-size: 0.8rem;
+
+                    }
+
+                }
+                
+                .logo {
+    
+                    img {
+                        width: 25px;
+                    }
+    
+                }
+    
+               }
+    
+        }
+
+    }
+
+}
+
+@media screen and (max-width: 450px) { 
+
+    .second {
+
+        height: auto;
+        padding: 3rem 1rem 0rem 1rem;
+
+        .footer {
+
+            padding: 1rem 0rem 2rem 0rem;
+    
+            .column {
+               
+                gap: 0.6rem;
+
+                a {
+
+                    gap: 0.6rem;
+
+                    span {
+
+                        font-size: 0.8rem;
+
+                    }
+
+                }
+                
+                .logo {
+    
+                    img {
+                        width: 25px;
+                    }
+    
+                }
+    
+               }
+    
+        }
+
+    }
+
+}

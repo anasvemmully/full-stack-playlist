@@ -1,0 +1,77 @@
+.second .footer {
+  font-family: "Bricolage Grotesque", sans-serif;
+  padding: 3rem 0rem;
+  border-top: 1px solid white;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+.second .footer .column {
+  gap: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.second .footer .column a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+}
+.second .footer .column a span {
+  text-transform: uppercase;
+}
+.second .footer .column .logo img {
+  width: 40px;
+}
+.second .footer .column .github img,
+.second .footer .column .contribute img {
+  filter: invert(1);
+}
+
+@media screen and (max-width: 660px) {
+  .second {
+    height: auto;
+    padding: 3rem 1rem 0rem 1rem;
+  }
+  .second .footer {
+    padding: 1rem 0rem 2rem 0rem;
+  }
+  .second .footer .column {
+    gap: 0.6rem;
+  }
+  .second .footer .column a {
+    gap: 0.6rem;
+  }
+  .second .footer .column a span {
+    font-size: 0.8rem;
+  }
+  .second .footer .column .logo img {
+    width: 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .second {
+    height: auto;
+    padding: 3rem 1rem 0rem 1rem;
+  }
+  .second .footer {
+    padding: 1rem 0rem 2rem 0rem;
+  }
+  .second .footer .column {
+    gap: 0.6rem;
+  }
+  .second .footer .column a {
+    gap: 0.6rem;
+  }
+  .second .footer .column a span {
+    font-size: 0.8rem;
+  }
+  .second .footer .column .logo img {
+    width: 25px;
+  }
+}
+
+/*# sourceMappingURL=footer.css.map */
