@@ -1,0 +1,278 @@
+--- 
+--- 
+
+@import "variables";
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+
+    background-color: $black;
+
+}
+
+$cardPadding: 1rem 0.8rem 0.0rem 0.8rem;
+
+.first {
+
+    overflow: hidden;
+
+    // height: 100vh;
+    // width: 100vw;
+    // background-color: $primary;
+
+    .navigation-container {
+
+        .navigation-second {
+
+            .nav-links {
+
+                a {
+
+                    color: $primary !important;
+
+                }
+
+            }
+
+        }
+
+    }
+
+    .search-container {
+        // padding: $NavigationBarPadding;
+        margin-bottom: 4rem;
+
+        .search-result {
+
+
+            // TODO
+            // TODO
+            // TODO
+
+            .search-result-vertical {
+
+                padding: 0 calc($LeftRightPadding + 1rem);
+                color: $primary;
+                display: flex;
+                gap: 20px;
+                flex-wrap: wrap;
+
+                .card-search-template-vertical {
+
+                    width: 30rem;
+
+                    flex-basis: calc(25% - 20px);
+                    
+                    border: 1px solid $primary;
+                    border-radius: 8px;
+                    padding: 1.6rem 1rem 1rem 1rem;
+
+                    .card-info-container-vertical {
+
+                        .card-info-name-vertical{
+
+                            font-size: 1.6rem;
+                            margin-bottom: 0.6rem;
+
+                        }                        
+
+                        .card-info-category-vertical {
+
+                            text-transform: uppercase;
+                            font-size: 1rem;
+                            font-family: $Poppins;
+                            font-weight: bold;
+
+                        }
+
+                    } 
+
+                    .card-info-container-2-vertical {
+
+                        font-family: $Poppins;
+                        font-weight: 400;
+
+                    }
+
+                }
+
+            }
+
+            .search-result-horizontal {
+
+                display: flex;
+                gap: 0.8rem;
+
+                margin-bottom: 2rem;
+                overflow: auto;
+                padding: 0rem $LeftRightPadding;
+                padding-bottom: 1rem;
+
+                &::-webkit-scrollbar {
+
+                    display: none;
+
+                }
+
+                .card-search-template-horizontal {
+
+                    border: 1px solid $primary;
+                    border-radius: 8px;
+                    color: $primary;
+                    padding-bottom: 1rem;
+                    width: 17rem;
+
+                    
+                    .card-banner-horizontal {
+                        
+                        height: 8rem;
+                        border-radius: 8px 8px 0 0;
+                        
+                        border-bottom: 1px solid $primary;
+                        background-repeat: no-repeat;
+                        background-position: center center;
+                        width: 100%;
+                        height: 13rem;
+                        object-fit: cover;
+
+                        margin-bottom: 0.4rem;
+                        
+                    }
+
+                    .card-info-container-horizontal {
+
+                        width: 200px;
+                        display: inline-flex;
+                        flex-direction: column;
+                        padding: $cardPadding;
+                        gap: 0.5rem;
+
+                        .card-info-name-horizontal {
+
+                            font-size: 1.6rem;
+                            text-transform: uppercase;
+
+                        }
+
+                        .card-info-category-horizontal {
+
+                            font-size: 0.7rem;
+
+                            span[card-info-category-horizontal] {
+
+                                padding: 0.2rem 0.4rem;
+                                border: 1px solid $primary;
+                                border-radius: 4px;
+
+                            }
+
+                        }
+
+                    }
+
+                    .card-info-container-2-horizontal {
+
+                        padding: $cardPadding;
+
+                        .card-info-description-horizontal {
+
+                            font-size: 0.9rem;
+                            font-family: $Poppins;
+                            font-weight: 700;
+
+                            img.emoji {
+
+                                width: 15px;
+                                height: auto;
+
+                            }
+
+                        }
+
+                        .card-info-additional-details-horizontal {
+
+                            margin-top: 1rem;
+                            display: flex;
+                            align-items: center;
+                            // justify-content: flex-end;
+                            gap: 0.5rem;
+
+                            svg {
+
+                                width: 20px;
+                                height: auto;
+
+
+                            }
+
+                            span {
+
+                                font-size: 1rem;
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            }
+
+
+        }
+
+        .search-input {
+
+
+            margin: $NavigationBarPadding;
+            padding: 0.2rem 1rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 1px;
+            border-radius: 40px;
+            border: 1px solid $primary;
+            // margin-bottom: 1.4rem;     
+
+            .search {
+
+                color: $primary;
+                font-size: 2rem;
+
+            }
+
+            input {
+
+                width: 350px;
+                color: $primary;
+                font-size: 1.2rem;
+                font-family: $Poppins;
+                background-color: transparent;
+                padding: 0.6rem 1rem;
+                border: none;
+                outline: none;
+
+            }
+        }
+
+    }
+}
+
+.second {
+
+    margin: 0 $LeftRightPadding;
+
+}
+
+
+.hidden {
+    display: none;
+}

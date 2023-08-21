@@ -137,6 +137,14 @@
                 height: auto;
                 border-radius: 4px;
     
+                &.banner {
+
+                    height: 400px;
+                    object-fit: cover;
+                    background-position: center;                    
+
+                }
+
             }
     
             strong {
